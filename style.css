@@ -56,9 +56,9 @@ img{
 .button {
     background: white;
     font-size: 110%;
-    color:dark red;
+    color:dark yellow;
     padding: 5px;
-    border:2px solid white;
+    border:2px solid black;
 }
 
 .redacted{
@@ -68,7 +68,7 @@ img{
 
 .half{
     width: 48%;
-    float: left;
+    float: right;
 }
 
 .box { 
