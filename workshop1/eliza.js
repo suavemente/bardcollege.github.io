@@ -26,19 +26,19 @@
  *   matches, replacing variables in the output pattern, and displaying
  *   the results to the user."
  */
-
+Hello?...
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "Shutup hater."
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
+    "You ain't shit how did you get to Bard?",
+    "Where's your hoes at?",
+    "Eliza is the realest",
     "What about computers worries you?",
     "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "Why are you so savage?",
   ],
   "~*x name ~*y": [
     "I am not interested in names",
@@ -46,11 +46,11 @@ var rules = {
   "~*x sorry ~*y": [
     "Please don't apologize",
     "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "Im in my feelings right now",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
+    "A boogie wit the hoodie?",
     "What else do you remember?",
     "Why do you recall ~y right now?",
     "What in the present situation reminds you of ~y?",
@@ -80,7 +80,8 @@ var rules = {
   ],
   "~*x I dreamt ~*y": [
     "Really-- ~y",
-    "Have you ever fantasized ~y while you were awake",
+    "Watch when I pull up in that foreign
+    Have your girl looking foreign",
     "Have you dreamt of ~y before?",
   ],
   "~*x I dream about ~*y": [
