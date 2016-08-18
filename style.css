@@ -1,19 +1,19 @@
 body {
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(0, 102, 0);
     color: linen;
-    font-size: 150%;
-    line-height: 1.4;
+    font-size: 89%;
+    line-height: 2.6;
 }
 
 h1{
     margin-top:0px;
-    margin-bottom: 10px;
+    margin-bottom: 14px;
     border-bottom: 1px solid #AEB7A7;
 }
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rgb(00, 56, 12);
 }
 
 h2{
@@ -56,8 +56,8 @@ img{
 .button {
     background: white;
     font-size: 110%;
-    color:gray;
-    padding: 4px;
+    color:dark red;
+    padding: 5px;
     border:2px solid white;
 }
 
